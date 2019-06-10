@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgTekEksamenRest", "ProgTekEksamenRest\ProgTekEksamenRest.csproj", "{8303A822-B008-4C7F-B255-3B9E8FBB402F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8303A822-B008-4C7F-B255-3B9E8FBB402F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8303A822-B008-4C7F-B255-3B9E8FBB402F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8303A822-B008-4C7F-B255-3B9E8FBB402F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8303A822-B008-4C7F-B255-3B9E8FBB402F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21759DC3-E58E-4731-A444-5EE492B89FA9}
+	EndGlobalSection
+EndGlobal
